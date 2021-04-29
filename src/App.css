@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+.clock{
+  color: white;
+  animation: clock-spin infinite 20s linear;
+}
+.navmenu a{
+  color: antiquewhite;
+  padding: 10px;
+}
+.navmenu a:hover{
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+@keyframes clock-spin {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(360deg);
+  }
+}
+
+.profile{
+  margin: 15px;
+}
+.profile h4{
+  margin-left: 15px;
+  padding: 5px;
+}
+.profile p{
+  margin-left: 50px;
+}
+.profile #title{
+  color: green;
+  text-align: center;
+  font-style: italic;
+}
+
+.portfolio{
+  margin: 15px;
+}
+.portfolio h1{
+  text-align: center;
+}
+.portfolio h5{
+  margin-left: 15px;
+  padding: 5px;
+}
+.portfolio p{
+  margin-left: 50px;
+}
