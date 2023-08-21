@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nkrathod
-- 👀 I’m interested in developing web application
-- 🌱 I’m currently learning Node js
+- 👀 I’m interested in developing a web application
+- 🌱 I’m currently working as a MERN Stack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
